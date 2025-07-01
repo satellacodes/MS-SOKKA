@@ -1,4 +1,4 @@
-# Shopping Cart - [view live](https://darkwool.github.io/shopping-cart/)
+# Shopping Cart - [view live](https://satellacodes.github.io/shopping-cart/)
 
 Made **with**:
 
