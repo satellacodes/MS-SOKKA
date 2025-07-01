@@ -50,7 +50,7 @@ export function Shop() {
         <div className="bg-black/30 w-full h-full flex items-end">
           <Container className="text-right">
             <h1 className="font-headings text-white text-3xl md:text-6xl font-extrabold tracking-tight leading-none">
-              GAMING STORE
+              MS-SOKKA STORE
             </h1>
           </Container>
         </div>

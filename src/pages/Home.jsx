@@ -1,5 +1,5 @@
 import blinkG from "/src/assets/images/blink-genteng.jpg";
-import lipsImg from "/src/assets/images/lips.png";
+//import lipsImg from "/src/assets/images/lips.png";
 import arrow from "/src/assets/images/arrow.svg";
 import textBackground from "/src/assets/images/innovate-text-gradient.png";
 import lokasiG from "/src/assets/images/apaya.jpg";
@@ -81,7 +81,7 @@ export function Home() {
           {/* second col */}
           <div className="mt-10 md:mt-0 grow relative">
             <img
-              src={lipsImg}
+              src={blinkG}
               alt=""
               className="max-w-[7rem] md:max-w-full absolute top-0 left-0"
             />
